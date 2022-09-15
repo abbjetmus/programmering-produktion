@@ -68,6 +68,8 @@ För att se resultatet från koden öppnar du filen från mappen i webbläsaren.
 Man när man gör ändringar i sin fil så måste man ladda om sidan i webbläsaren. 
 Men genom ett tillägg som heter LiveServer i Visual Studio Code kan man öppna filen så att den uppdateras live.
 
+**Grattis du har skapat din första HTML sida!**
+
 ## Checklista HTML/CSS
 * Känna till de vanligaste HTML-taggarna h1-h6, p, div, span, a, img, form, button, input...
 * Förstå skillnaden mellan inline och block element i HTML
