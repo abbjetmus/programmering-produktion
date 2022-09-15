@@ -16,21 +16,20 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 ## Innehåll
 1. CSS syntax
 2. CSS Selectorer
-3. CSS Olika sätt
+3. CSS Lägga till på 3 olika sätt
 4. CSS Colors (Färger)
-5. CSS Backgrounds (Bakgrunder)
-6. CSS Borders (Ramar)
-7. CSS Margins (Marginaler)
-8. CSS Padding (Utfyllnad)
-9. CSS Height/Width
-10. CSS Box Model
-11. CSS Text
-12. CSS Font (Typsnitt)
-13. CSS Links (Länkar)
-14. CSS Display
-15. CSS Position
-16. CSS Combinators
-17. CSS Flexbox
+5. CSS Borders (Ramar)
+6. CSS Margins (Marginaler)
+7. CSS Padding (Utfyllnad)
+8. CSS Height/Width
+9. CSS Box Model
+10. CSS Text
+11. CSS Font (Typsnitt)
+12. CSS Links (Länkar)
+13. CSS Display
+14. CSS Combinators
+15. CSS Flexbox
+16. CSS Bibliotek i form av Bootstrap
 
 
 ## 1. CSS - Syntax
@@ -40,59 +39,59 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 ## 2. CSS Selectorer
 ### Resurser
 [W3Schools CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
 
-## 3. HTML - dokument
+## 3. CSS Lägga till på 3 olika sätt
 ### Resurser
-[W3Schools HTML-document](https://www.w3schools.com/html/html_basic.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
+[W3Schools How To](https://www.w3schools.com/css/css_howto.asp)
 
-## 4. HTML - dokument
+## 4. CSS Colors (Färger)
 ### Resurser
-[W3Schools HTML-document](https://www.w3schools.com/html/html_basic.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
+[W3Schools Colors](https://www.w3schools.com/css/css_colors.asp)
 
-## 5. HTML - dokument
+## 5. CSS Boders (Ramar)
 ### Resurser
-[W3Schools HTML-document](https://www.w3schools.com/html/html_basic.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
+[W3Schools Borders](https://www.w3schools.com/css/css_border.asp)
 
-## 6. HTML - dokument
+## 6. CSS Margins (Marginaler)
 ### Resurser
-[W3Schools HTML-document](https://www.w3schools.com/html/html_basic.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
+[W3Schools CSS Margins](https://www.w3schools.com/css/css_margin.asp)
 
-## 7. HTML - dokument
+## 7. CSS Padding (Utfyllnad)
 ### Resurser
-[W3Schools HTML-document](https://www.w3schools.com/html/html_basic.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
+[W3Schools CSS Padding (Utfyllnad)](https://www.w3schools.com/css/css_padding.asp)
 
-## 8. HTML - dokument
+## 8. CSS Height/Width
 ### Resurser
-[W3Schools HTML-document](https://www.w3schools.com/html/html_basic.asp)
-### Övningsuppgift
-[Övning HTML-document](https://javascript.info/variables)
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
+## 9. CSS Box Model
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
+## 10. CSS Text
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
-## CSS Flexbox - layoutmodul
-Före Flexbox Layout modulen fanns det fyra layoutlägen:
+## 11. CSS Font (Typsnitt)
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
-* Block, för sektioner på en webbsida
-* Inline, för text
-* Tabell, för tvådimensionella tabelldata
-* Positionering, för ett elements exakta position
+## 12. CSS Links (Länkar)
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
-**Flexible Box Layout Module**, gör det lättare att designa flexibela responsiva layouts utan att använda float eller positionering.
+## 13. CSS Display
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
-Läs om Flexbox på den här länken och gör uppgifterna på den andra länken:
+## 14. CSS Combinators
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
-* Läs: <https://www.w3schools.com/css/css3_flexbox.asp>
+## 15. CSS Flexbox
+### Resurser
+[W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
-* Gör uppgifterna: https://flexboxfroggy.com/#sv
+## 16. CSS Bibliotek i form av Bootstrap
+### Resurser
+[W3Schools Bootstrap](https://www.w3schools.com/bootstrap5/index.php)

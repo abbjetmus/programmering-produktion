@@ -62,3 +62,19 @@ Det finns tre sätt att lägga till CSS:
 ```
 
 ![alt text](./box-model.png)
+
+## CSS Flexbox - layoutmodul
+Före Flexbox Layout modulen fanns det fyra layoutlägen:
+
+* Block, för sektioner på en webbsida
+* Inline, för text
+* Tabell, för tvådimensionella tabelldata
+* Positionering, för ett elements exakta position
+
+**Flexible Box Layout Module**, gör det lättare att designa flexibela responsiva layouts utan att använda float eller positionering.
+
+Läs om Flexbox på den här länken och gör uppgifterna på den andra länken:
+
+* Läs: <https://www.w3schools.com/css/css3_flexbox.asp>
+
+* Gör uppgifterna: https://flexboxfroggy.com/#sv
