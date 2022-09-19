@@ -55,7 +55,7 @@
 
 ## 6. Images - Bilder
 ### Resurser
-[W3Schools Images](https://www.w3schools.com/html/html_headings.asp)
+[W3Schools Images](https://www.w3schools.com/html/html_images.asp)
 
 ## 7. Listor
 ### Resurser
@@ -66,14 +66,14 @@
 
 ## 9. Formulär - Forms
 ### Resurser
-[W3Schools Class](https://www.w3schools.com/html/html_classes.asp)
+[W3Schools Forms](https://www.w3schools.com/html/html_forms.asp)
 
 ## Övning 2
 [Övning 2](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 
 ## 9. Block & Inline
 ### Resurser
-[W3Schools Class](https://www.w3schools.com/html/html_classes.asp)
+[W3Schools Block & Inline](https://www.w3schools.com/html/html_blocks.asp)
 
 ## Övning 3
 [Övning 2](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
@@ -92,15 +92,15 @@
 
 ## 11. Head-taggen
 ### Resurser
-[W3Schools Filepaths](https://www.w3schools.com/html/html_filepaths.asp)
+[W3Schools Head](https://www.w3schools.com/html/html_head.asp)
 
 ## 11. HTML Style Guide
 ### Resurser
-[W3Schools Filepaths](https://www.w3schools.com/html/html_filepaths.asp)
+[W3Schools HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 
 ## 11. Media
 ### Resurser
-[W3Schools Filepaths](https://www.w3schools.com/html/html_filepaths.asp)
+[W3Schools Media](https://www.w3schools.com/html/html_media.asp)
 
 
 
