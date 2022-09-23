@@ -17,14 +17,12 @@ Javascript är programmeringsspråket som körs i webbapplikationer och används
 
 I vår tidigare analogi på människokroppen så är JavaScript det som ger funktionalitet och rörelse på webbsidor.
 
-Våga testa och fråga kompisar och lärare för att få bästa möjligheter till att utvecklas.
-
 Till varje del så kommer det finnas lite övningsuppgifter.
 
 ## Övergripande resurser för denna modul:
 - [W3School Javascript](https://www.w3schools.com/js/default.asp)  
 
-Inte obligatorisk utan för den som vill.  
+Inte obligatorisk utan bara för den som vill.  
 - [Modern Javascript av The Net Ninja på Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
 # 0. Testmiljö
