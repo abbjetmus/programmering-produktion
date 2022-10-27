@@ -152,7 +152,7 @@ min(3, -1) == -1
 min(1, 1) == 1
 ```
 
-## 1.9 Objekt
+## 1.8 Objekt
 ### Övningsuppgifter
 
 **Övning 1. Animal Objekt**<br>
@@ -181,7 +181,7 @@ let salaries = {
 ```
 Skriv koden för att summera alla löner och lagra den variabelb `sum`. Bör vara `390` i exemplet ovan.
 
-## 1.10 Listor (Array)
+## 1.9 Listor (Array)
 ### Övningsuppgifter
 **Övning 1. Loopa igenom array med namnen i er grupp**<br>
 1. Skapa en array med namn på alla gruppmedlemmar.
