@@ -48,30 +48,30 @@ Kopiera följande kod som mall för övningarna. Skapa en ny html-fil och lägg 
 1. Skapa en data variabel som är en lista med talen _1 till 10_.
 2. Använd sedan _v-for_ direktivet i HTML section för att loopa/gå igenom listan med talen och skriv ut dem med hjälp av interpolering och en oordnad lista ul/li.
 
-#### Övning 0.5 - API anrop för att hämta ett objekt och presentera det
+#### Övning 0.5 - Eventhantering med knappar
+
+1. Skapa en data variabel som heter _name_ och som innehåller ert förnamn. Visa namnet med interpolering på skärmen.
+2. Skapa sedan en knapp med texten "byt namn", koppla på ett klick event/metod som körs när man klickar på knappen så att _name_ variabeln uppdateras till ditt efternamn istället. Du kan döpa metoden till vad du vill tex changeName().
+
+### Övning 0.6 - Två-vägs bindning och computed (beräknade variabler)
+
+1. Skapa två data-variabler för firstName och lastName.
+2. Skapa två input-fält som har två-vägbindning med lastName och firstName dvs **v-model**.
+3. Visa för och efternamn brevid varandra med interpolering {{firstName}} {{lastName}}.
+
+#### Övning 0.7 - API anrop för att hämta ett objekt och presentera det
 
 1. Skapa en variabel som heter _photo_ som är null från början.
 2. I _created()_ metoden gör ett API-anrop med _fetch()_ som hämtar ett photo objekt och tilldelar det till _photo_ data variabeln.<br>
    <https://jsonplaceholder.typicode.com/photos/1>
 3. Presentera sedan photo objektets värden i html med interpolation.
 
-#### Övning 0.6 - API anrop för att hämta en lista av objekt
+#### Övning 0.8 - API anrop för att hämta en lista av objekt
 
 1. Skapa en variabel som heter _photos_ som är null från början.
 2. I _created()_ metoden gör ett API-anrop med _fetch()_ som hämtar ett photo objekt och tilldelar det till _photo_ data-variabeln.<br>
    <https://jsonplaceholder.typicode.com/photos/1>
 3. Presentera sedan photo objektets värden i html med interpolation.
-
-#### Övning 0.7 - Eventhantering med knappar
-
-1. Skapa en data variabel som heter _name_ och som innehåller ert förnamn. Visa namnet med interpolering på skärmen.
-2. Skapa sedan en knapp med texten "byt namn", koppla på ett klick event/metod som körs när man klickar på knappen så att _name_ variabeln uppdateras till ditt efternamn istället. Du kan döpa metoden till vad du vill tex changeName().
-
-### Övning 0.8 - Två-vägs bindning och computed (beräknade variabler)
-
-1. Skapa två data-variabler för firstName och lastName.
-2. Skapa två input-fält som har två-vägbindning med lastName och firstName dvs **v-model**.
-3. Visa för och efternamn brevid varandra med interpolering {{firstName}} {{lastName}}.
 
 ### Övning 0.9 - Computed & Watchers
 
