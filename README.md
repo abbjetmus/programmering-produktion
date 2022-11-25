@@ -1,9 +1,9 @@
 # Programmering Produktion
-Välkommen till Programmering på ABB Gymnasiet 2022 för produktion. Under momentets gång kommer vi gå igenom de tre språken som används för att programmera mot webben HTML/CSS/JavaScript. Även om teknikerna oftast används mot webben så går det bygga alla typer av applikationer med dem.
+Välkommen till Programmering på ABB Gymnasiet 2022 för produktion. Under momentets gång kommer vi gå igenom de tre språken som används för att programmera mot webben HTML/CSS/JavaScript. Även om teknikerna oftast används mot webben så går det bygga alla typer av applikationer med dessa.
 
-När vi lärt oss grunderna kommer vi lära oss hur man bygger mer avancerade applikationer med javascript-ramverket Vue.js.
+När vi lärt oss grunderna kommer vi lära oss hur man bygger mer avancerade applikationer med javascript-ramverket Vue.js och Bootstrap CSS.
 
-Vi kommer även lära oss hur man kommunicerar med webbtjänster genom HTTP-protokollet och databaser i form av Firebase.
+Vi kommer även lära oss hur man kommunicerar med webbtjänster genom HTTP-protokollet och databaser i form av Firebase om tiden räcker till.
 
 Dessa tekniker kommer ni få applicera på ett projekt.
 
@@ -20,18 +20,19 @@ Kort så är **HTML** en webbsidas struktur och innehåll på samma sett som vå
 
 ## Övergripande resurser för denna modul:
 Undervisningen kommer bestå av lärarledda genomgångar av olika koncept i kombination med övningar.
-För den som vill (inte obligatoriskt) så kan man och en utbildningsserie på Youtube.
+För den som vill (inte obligatoriskt) så kan man titta på en utbildningsserie på Youtube.
 
-* Vi kommer börja i ordningen HTML -> CSS -> JavaScript.
-* Det finns mappar för varje del, man klickar på en mapp och där finns innehållet och länkar för den delen.
-* För i mappen för varje del finns även en mapp med övningsuppgifter. När läraren har gått igenom vissa delar eller man själv läst på så gör man en övning på det enligt instruktionerna.
+* Vi kommer börja i ordningen HTML -> CSS -> JavaScript -> Vue.
+* Det finns mappar för varje del, man klickar på en mapp och där finns innehållet, beskrivning och länkar för den delen.
+* I mapparna finns det i sin tur en undermapp med övningsuppgifter. När läraren har gått igenom vissa delar eller man själv läst på så gör man övningar på det enligt instruktionerna.
 
-Kursens resurser kommer finnas här på Github och följande länkar. 
+Kursens resurser kommer finnas här på Github och följande länkar för detaljer. 
 
-- [W3School Javascript](https://www.w3schools.com/js/default.asp)
 - [W3School HTML](https://www.w3schools.com/html/)
-- [W3School CSS](https://www.w3schools.com/css/default.asp)  
+- [W3School CSS](https://www.w3schools.com/css/default.asp) 
+- [W3School Javascript](https://www.w3schools.com/js/default.asp) 
 
+Föredrar man video istället finns dessa från Youtube:  
 
 - [HTML/CSS av The Net Ninja på Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 - [Modern Javascript av The Net Ninja på Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
@@ -82,5 +83,17 @@ Men genom ett tillägg som heter LiveServer i Visual Studio Code kan man öppna 
 * Olika sätt att inkludera CSS i HTML
 
 ## Checklists JavaScript
+* Variabler
+* Datatyper
+* Operatorer
+* Villkor
+* loopar
+* Object
+* Listor - Array
 
 ## Checklista Vue
+* Interpolation
+* attribute-binding
+* v-if villkor
+* v-model två-vägs-bindning
+* v-for loop igenom lista och generera taggar
