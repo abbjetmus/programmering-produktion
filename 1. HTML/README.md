@@ -6,7 +6,7 @@
 * HTML-element talar om för webbläsaren hur innehållet ska visas
 * HTML-element markerar delar av innehåll som "det här är en rubrik", "det här är ett stycke", "det här är en länk" etc.
 
-Utgå från innehållsförteckningen, följ länkarna och läs igenom när du kommer till en uppgift gör du uppgiften.
+Utgå från innehållsförteckningen, följ länkarna och läs igenom när du kommer till en uppgift gör du uppgiften. Facit finns också, men försök alltid utan att titta på facit.
 
 ## Innehåll
 0. HTML-dokument

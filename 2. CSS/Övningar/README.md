@@ -1,9 +1,6 @@
 # CSS Övningar
 
-## W3Schools - CSS Övningar
-Gör alla övningar på den här länken <https://www.w3schools.com/css/exercise.asp/>
-
-## Övning 0. CSS Selectorer
+## Övning 1. CSS Selectorer
 
 1. Utgå från HTML-koden nedan och lägg in det i en HTML fil som du skapar.
 2. Lägg en <style></style> tagg innanför head-taggen där din CSS ska ligga.
@@ -29,7 +26,7 @@ Gör alla övningar på den här länken <https://www.w3schools.com/css/exercise
 </p>
 ```
 
-## Övning 1. Tre sätt att lägga till CSS
+## Övning 2. Tre sätt att lägga till CSS
 Det finns tre sätt att lägga till CSS:
 1. Inline CSS
 2. Intern CSS
@@ -40,7 +37,7 @@ Det finns tre sätt att lägga till CSS:
 3. CSS:en som rektanglarna ska ha är bredden 200px och vidden 200px. Och en av varje rektangel ska vara gul, röd och grön bakgrundsfärg.
 
 
-## Övning 2. Box modellen
+## Övning 3. Box modellen
 
 ```html
 <!DOCTYPE html>
@@ -63,13 +60,8 @@ Det finns tre sätt att lägga till CSS:
 
 ![alt text](./box-model.png)
 
-## CSS Flexbox - layoutmodul
-Före Flexbox Layout modulen fanns det fyra layoutlägen:
-
-* Block, för sektioner på en webbsida
-* Inline, för text
-* Tabell, för tvådimensionella tabelldata
-* Positionering, för ett elements exakta position
+## Övning 4. CSS Flexbox - layoutmodul
+Flexbox är en CSS teknik för att smidigt bestämma positionering av sektioner på en sida. Som vi märkt hittills så hamnar allt innehåll uppifrån och ner, hur gör vi om vi vill positionera taggar horisontellt? Det är här styrkorna i Flexbox kommer.
 
 **Flexible Box Layout Module**, gör det lättare att designa flexibela responsiva layouts utan att använda float eller positionering.
 

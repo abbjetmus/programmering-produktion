@@ -4,17 +4,27 @@ Vue är ett väldigt trevligt javascript ramverk för att utveckla applikationer
 
 ## Intro
 
-- Vue är ett progressivt open-source ramverk för att bygga användargränssnitt, till en början utvecklad av en Google avhoppare som heter Evan You, men underhålls idag av ett team.
+Vue är ett JavaScript bibliotek som används för att på ett smidigt sätt koppla JavaScripten till HTMLen.
+Vue ger oss superkrafter och är ett reaktivt bibliotek, vilket innebär att när variabler ändrar på sig i JavaScript syns ändringen direkt i HTMLen, vilket är mycket trevligt. För att använda Vue i er hemsida behövs 3 saker.
 
-- Core delen av ramverket är endast fokuserat på visningsskiktet och är enkelt att komma igång med.
+1. En script tagg som importerar dvs hämtar vue:  
+```html
+<script src="https://unpkg.com/petite-vue"></script>
+```
 
-- Vue är också fullt kapabelt att bygga sofistikerade applikationer (Single Page Applications).
+2. En script tagg med vår vue kod:
 
-- Vue är flexibelt och enkelt.
+```html
+    <script>
+      const data = {
+        name: "Kalle Kula",
+      };
+      PetiteVue.createApp(data).mount("#body");
+    </script>
+```
 
-- Vue tillåter dig att använde det i en del av en befintlig applikation (plugin) eller hantera hela applikationen från start (CLI).
+Vi ska bara göra våra ändringar
 
-- Vue förser oss med reaktivitet vilket gör att våra vyer/sidor automagiskt uppdateras när vårat data ändras.
 
 ## Nytt projekt från start
 

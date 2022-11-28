@@ -16,19 +16,23 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 ## Innehåll
 1. CSS syntax
 2. CSS Selectorer
+[Övning 1](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 3. CSS Lägga till på 3 olika sätt
+[Övning 2](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 4. CSS Colors (Färger)
 5. CSS Borders (Ramar)
 6. CSS Margins (Marginaler)
 7. CSS Padding (Utfyllnad)
 8. CSS Height/Width
 9. CSS Box Model
+[Övning 3](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 10. CSS Text
 11. CSS Font (Typsnitt)
 12. CSS Links (Länkar)
 13. CSS Display
 14. CSS Combinators
 15. CSS Flexbox
+[Övning 4](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 16. CSS Bibliotek i form av Bootstrap
 
 
@@ -40,9 +44,15 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 ### Resurser
 [W3Schools CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
 
+## Övning 1
+[Övning 1](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
+
 ## 3. CSS Lägga till på 3 olika sätt
 ### Resurser
 [W3Schools How To](https://www.w3schools.com/css/css_howto.asp)
+
+## Övning 2
+[Övning 2](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 
 ## 4. CSS Colors (Färger)
 ### Resurser
@@ -68,6 +78,9 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 ### Resurser
 [W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 
+## Övning 3
+[Övning 3](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
+
 ## 10. CSS Text
 ### Resurser
 [W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
@@ -91,6 +104,9 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 ## 15. CSS Flexbox
 ### Resurser
 [W3Schools CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
+
+## Övning 4
+[Övning 4](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 
 ## 16. CSS Bibliotek i form av Bootstrap
 ### Resurser
