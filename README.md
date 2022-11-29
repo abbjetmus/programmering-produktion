@@ -40,14 +40,14 @@ Föredrar man video istället finns dessa från Youtube:
 
 # Testmiljö att komma igång med
 
-**Visual Studio Code** är programmerings-editor (ett program vi använder för att skriva kod i).
+**Visual Studio Code** är programmerings-editor, dvs ett program som vi använder för att skriva kod i.
 1. Installera Visual Studio Code från länken: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 2. Skapa en mappstruktur som tex C:/programmering/HTML  
 För JavaScript skapar du en under-mapp med namnet JavaScript istället för HTML.
 Från Visual Studio Code öppnar du mappen du skapade **File->Open Folder...**. 
 Från Visual Studio Code skapar du en fil tex **test.html**.
-I filen **test.html** lägger du in mall koden:  
+I filen **test.html** lägger du in mallkoden:  
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -66,10 +66,21 @@ I filen **test.html** lägger du in mall koden:
 Innanför body-taggen lägger vi in taggarna som kommer synas på hemsidan.
 För att se resultatet från koden öppnar du filen från mappen i webbläsaren.
 
-Man när man gör ändringar i sin fil så måste man ladda om sidan i webbläsaren. 
-Men genom ett tillägg som heter LiveServer i Visual Studio Code kan man öppna filen så att den uppdateras live.
+När man gör ändringar i sin fil så måste man ladda om sidan i webbläsaren. 
+Men genom ett tillägg som heter LiveServer i Visual Studio Code kan man öppna filen så att den uppdateras live. Båda sätten fungerar lika bra.
 
 **Grattis du har skapat din första HTML sida!**
+
+Följ nu mapparna i ordningen när du går igenom innehållet.
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Vue
+5. Bootstrap
+#### Om tiden räcker
+6. HTTP och APIer
+7. Git-Github
 
 ## Checklista HTML/CSS
 * Känna till de vanligaste HTML-taggarna h1-h6, p, div, span, a, img, form, button, input...
@@ -97,3 +108,7 @@ Men genom ett tillägg som heter LiveServer i Visual Studio Code kan man öppna 
 * v-if villkor
 * v-model två-vägs-bindning
 * v-for loop igenom lista och generera taggar
+
+## Checklista Bootstrap
+* Hur man inkluderar Bootstrap
+* Hur man använder Bootstrap för att skapa enkel hemsida
