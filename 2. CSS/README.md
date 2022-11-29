@@ -17,21 +17,21 @@ CSS är det som ger en hemsida en design och färger. Här nedan ser vi ett exem
 1. CSS syntax
 2. CSS Selectorer
 [Övning 1](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
-3. CSS Lägga till på 3 olika sätt
+3. CSS Lägga till på 3 olika sätt  <br>
 [Övning 2](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 4. CSS Colors (Färger)
 5. CSS Borders (Ramar)
 6. CSS Margins (Marginaler)
 7. CSS Padding (Utfyllnad)
 8. CSS Height/Width
-9. CSS Box Model
+9. CSS Box Model  <br>
 [Övning 3](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 10. CSS Text
 11. CSS Font (Typsnitt)
 12. CSS Links (Länkar)
 13. CSS Display
 14. CSS Combinators
-15. CSS Flexbox
+15. CSS Flexbox  <br>
 [Övning 4](https://github.com/abbjetmus/programmering-produktion/tree/master/HTML/%C3%96vningar#%C3%B6vning-1---g%C3%B6r-sidan-p%C3%A5-bilden-med-html)
 16. CSS Bibliotek i form av Bootstrap
 
